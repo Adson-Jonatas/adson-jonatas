@@ -11,6 +11,13 @@
 - ⚡ Curiosidade: ...
 
 <div>
+<a href="https://github.com/Adson-Jonatas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adson-Jonatas&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Adson-Jonatas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Ferramentas e Tecnologias
+<div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="35" height="35"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/> 
