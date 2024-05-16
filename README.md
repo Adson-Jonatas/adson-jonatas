@@ -1,6 +1,6 @@
-# Adson Jonatas
+# 🖖 Oi, me chamo Adson Jonatas 
 
-🖖 Cursando Bacharelado em Engenharia de Software e focadíssimo em Pentest e DevOps .
+Estou cursando Bacharelado em Engenharia de Software e focadíssimo em projetos Pentest e DevOps .
 
 <div>
 <a href="https://github.com/adson-jonatas">
