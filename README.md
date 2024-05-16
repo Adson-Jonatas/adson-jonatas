@@ -1,19 +1,13 @@
-# SeuNomeAqui
+# Adson Jonatas
+
 ## Hello, Devs!!
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+🖖 Cursando Bacharelado em Engenharia de Software e focadíssimo em Pentest e DevOps .
 
 <div>
-<a href="https://github.com/Adson-Jonatas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adson-Jonatas&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Adson-Jonatas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/adson-jonatas">
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=adson-jonatas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-jonatas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Ferramentas e Tecnologias
@@ -42,11 +36,11 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="35" height="35"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35"/>
 </div>
-          
-
 
 <div>
-          <a href="https://instagram.com/adson-jonatas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-          <a href = "mailto:contato@adson.jotta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-          <a href="https://www.linkedin.com/in/adson-jonatas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/adson-jonatas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"  width="90" height="24"></a>
+<a href = "mailto:contato@adson.jotta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="90" height="24"></a>
+<a href="https://www.linkedin.com/in/adson-jonatas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  width="90" height="24"></a>   
 </div>
+
+![Snake animation](https://github.com/adson-jonatas/adson-jonatas/blob/output/github-contribution-grid-snake.svg)
