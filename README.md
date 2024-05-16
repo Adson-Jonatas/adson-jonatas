@@ -4,7 +4,7 @@ Estou cursando Bacharelado em Engenharia de Software e focadíssimo em projetos 
 
 <div>
 <a href="https://github.com/adson-jonatas">
-<! -- <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=adson-jonatas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<! -- <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=adson-jonatas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-jonatas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
