@@ -33,9 +33,9 @@
 </div>
 
 # 
-<div>
+<!-- <div>
 <a href="https://github.com/adson-jonatas">
 <! -- <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=adson-jonatas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adson-jonatas&layout=compact&langs_count=7&theme=github_dark&count_private=true"/>
-</div>
+</div> -->
 
